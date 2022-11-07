@@ -1,0 +1,8 @@
+com/rvafin/spring/app/services/BookRepository.class
+com/rvafin/spring/web/controllers/LoginController.class
+com/rvafin/spring/web/dto/LoginForm.class
+com/rvafin/spring/web/dto/Book.class
+com/rvafin/spring/web/controllers/BookShelfController.class
+com/rvafin/spring/app/services/BookService.class
+com/rvafin/spring/app/services/ProjectRepository.class
+com/rvafin/spring/app/services/LoginService.class

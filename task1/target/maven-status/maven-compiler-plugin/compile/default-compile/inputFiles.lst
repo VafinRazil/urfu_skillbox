@@ -1,0 +1,8 @@
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/app/services/LoginService.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/web/controllers/LoginController.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/web/controllers/BookShelfController.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/app/services/BookService.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/web/dto/Book.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/web/dto/LoginForm.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/app/services/ProjectRepository.java
+/home/razil/urfu_skillbox/task1/src/main/java/com/rvafin/spring/app/services/BookRepository.java
